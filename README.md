@@ -3,7 +3,7 @@
 ### (1) Creational Design Pattern -> These are the design patterns which is used for creating Objects . It focuses on creation of the objects.
 
     
-    (a) Singleton Design Pattern - This is the dwsign Pattern which focusses on creational of single Object that is used throughout the project . This means the same object is used .
+Singleton Design Pattern - This is the dwsign Pattern which focusses on creational of single Object that is used throughout the project . This means the same object is used .
    
 There are multiple ways to break the Singleton Design Pattern - 
 1) Reflextion API - Through Creating the ObjectOutput Stream and Object input Stream to break the singleton design pattern.
